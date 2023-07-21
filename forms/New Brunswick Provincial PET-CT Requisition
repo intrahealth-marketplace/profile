@@ -1,0 +1,17 @@
+{
+	"displayName": "New Brunswick Provincial PET-CT Requisition",
+	"healthRegion": "New Brunswick",
+	"jurisdiction": "NB",
+	"language": "French",
+	"versionHistory": [{
+			"version": 1,
+			"date": "2023-07-21",
+			"comments": ""
+		}
+	],
+	"intrahealthId": "03912",
+	"healthRegionId": "HHN-03912",
+	"created": "2023-07-21",
+	"modified": "2023-07-21",
+	"uploaded": "2023-07-21"
+}
