@@ -1,0 +1,17 @@
+{
+	"displayName": "Edinburgh Postnatal Depression Scale (EPDS)",
+	"healthRegion": "Provincial",
+	"jurisdiction": "BC",
+	"language": "English",
+	"versionHistory": [{
+			"version": 1,
+			"date": "2023-07-21",
+			"comments": ""
+		}
+	],
+	"intrahealthId": "00001",
+	"healthRegionId": "X",
+	"created": "2023-07-21",
+	"modified": "2023-07-21",
+	"uploaded": "2023-07-21"
+}
