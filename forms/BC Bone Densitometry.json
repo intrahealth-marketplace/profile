@@ -1,0 +1,17 @@
+{
+	"displayName": "BC Bone Densitometry",
+	"healthRegion": "Provincial",
+	"jurisdiction": "BC",
+	"language": "English",
+	"versionHistory": [{
+			"version": 1,
+			"date": "2023-07-21",
+			"comments": ""
+		}
+	],
+	"intrahealthId": "01905",
+	"healthRegionId": "HLTH 1905",
+	"created": "2023-07-21",
+	"modified": "2023-07-21",
+	"uploaded": "2023-07-21"
+}
