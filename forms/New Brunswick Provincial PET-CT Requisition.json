@@ -5,13 +5,13 @@
 	"language": "French",
 	"versionHistory": [{
 			"version": 1,
-			"date": "2023-07-21",
+			"date": "2023-07-21T12:00:00.000Z",
 			"comments": ""
 		}
 	],
 	"intrahealthId": "03912",
 	"healthRegionId": "HHN-03912",
-	"created": "2023-07-21",
-	"modified": "2023-07-21",
-	"uploaded": "2023-07-21"
+	"created": "2023-07-21T12:00:00.000Z",
+	"modified": "2023-07-21T12:00:00.000Z",
+	"uploaded": "2023-07-21T12:00:00.000Z"
 }
