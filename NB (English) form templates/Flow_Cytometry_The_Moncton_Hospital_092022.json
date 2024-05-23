@@ -1,0 +1,17 @@
+{
+	"displayName": "Flow_Cytometry_The_Moncton_Hospital_092022",
+	"healthRegion": "Provincial",
+	"jurisdiction": "NB",
+	"language": "English",
+	"versionHistory": [{
+			"version": 1,
+			"date": "2024-04-12T12:00:00.000Z",
+			"comments": ""
+		}
+	],
+	"intrahealthId": "01905",
+	"healthRegionId": "",
+	"created": "2023-07-21T12:00:00.000Z",
+	"modified": "2023-07-21T12:00:00.000Z",
+	"uploaded": "2023-07-21T12:00:00.000Z"
+}
