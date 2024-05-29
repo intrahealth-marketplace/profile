@@ -1,17 +1,12 @@
+
 {
-	"displayName": "303E - IWK Maternal Serum Testing - FIRST Trimester",
-	"healthRegion": "Provincial",
-	"jurisdiction": "NB",
-	"language": "English",
-	"versionHistory": [{
-			"version": 1,
-			"date": "2023-04-20T12:00:00.000Z",
-			"comments": ""
-		}
-	],
-	"intrahealthId": "01905",
-	"healthRegionId": "",
-	"created": "2023-07-21T12:00:00.000Z",
-	"modified": "2023-07-21T12:00:00.000Z",
-	"uploaded": "2023-07-21T12:00:00.000Z"
+  "displayName": "303E - IWK Maternal Serum Testing - FIRST Trimester",
+  "healthRegion": "Provincial",
+  "jurisdiction": "NB",
+  "language": "English",
+  "versionHistory": [
+    {"version": 1, "date": "2023-04-20", "comments": ""}
+    
+  ],
+  "modified": "2023-05-01T10:33:07Z"
 }
