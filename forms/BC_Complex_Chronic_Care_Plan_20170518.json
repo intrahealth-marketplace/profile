@@ -1,17 +1,11 @@
 {
-	"displayName": "BC Complex Chronic Care Plan",
-	"healthRegion": "Provincial",
-	"jurisdiction": "BC",
-	"language": "English",
-	"versionHistory": [{
-			"version": 1,
-			"date": "2023-07-21T12:00:00.000Z",
-			"comments": ""
-		}
-	],
-	"intrahealthId": "01905",
-	"healthRegionId": "",
-	"created": "2023-07-21T12:00:00.000Z",
-	"modified": "2023-07-21T12:00:00.000Z",
-	"uploaded": "2023-07-21T12:00:00.000Z"
+  "displayName": "BC Complex Chronic Care Plan",
+  "healthRegion": "Provincial",
+  "jurisdiction": "BC",
+  "language": "English",
+  "versionHistory": [
+    {"version": 1, "date": "2023-07-21", "comments": ""}
+    
+  ],
+  "modified": "2023-05-01T10:33:07Z"
 }
