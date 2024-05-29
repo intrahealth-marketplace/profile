@@ -1,7 +1,7 @@
 {
   "displayName": "Clinical Findings3",
-  "healthRegion": "Provincial",
-  "jurisdiction": "NB",
+  "healthRegion": "Fraser Health",
+  "jurisdiction": "BC",
   "language": "English",
   "versionHistory": [
     {"version": 1, "date": "2023-01-01", "comments": ""}
