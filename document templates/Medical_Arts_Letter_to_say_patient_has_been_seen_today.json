@@ -1,0 +1,10 @@
+{
+	"displayName": "Medical Arts - Letter to say patient has been seen today",
+	"healthRegion": "",
+	"jurisdiction": "BC",
+	"language": "English",
+	"versionHistory": [
+    {"version": 1, "date": "2024-12-05", "comments": ""},
+     ],
+  "modified": "2024-12-05T10:13:07Z"
+}
