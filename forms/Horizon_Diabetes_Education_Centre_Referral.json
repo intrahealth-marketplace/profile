@@ -1,0 +1,17 @@
+{
+	"displayName": "565 (07/23) - Horizon - Diabetes Education Centre Referral",
+	"healthRegion": "Provincial",
+	"jurisdiction": "NB",
+	"language": "French",
+	"versionHistory": [{
+			"version": 1,
+			"date": "2024-01-15T12:00:00.000Z",
+			"comments": ""
+		}
+	],
+	"intrahealthId": "",
+	"healthRegionId": "",
+	"created": "2023-07-21T12:00:00.000Z",
+	"modified": "2023-07-21T12:00:00.000Z",
+	"uploaded": "2023-07-21T12:00:00.000Z"
+}
