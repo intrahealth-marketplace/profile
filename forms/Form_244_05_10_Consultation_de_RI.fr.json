@@ -1,0 +1,17 @@
+{
+	"displayName": "Form 244-05/10 - Consultation de RI",
+	"healthRegion": "Provincial",
+	"jurisdiction": "NB",
+	"language": "French",
+	"versionHistory": [{
+			"version": 1,
+			"date": "2024-03-26T12:00:00.000Z",
+			"comments": ""
+		}
+	],
+	"intrahealthId": "",
+	"healthRegionId": "",
+	"created": "2023-07-21T12:00:00.000Z",
+	"modified": "2023-07-21T12:00:00.000Z",
+	"uploaded": "2023-07-21T12:00:00.000Z"
+}
