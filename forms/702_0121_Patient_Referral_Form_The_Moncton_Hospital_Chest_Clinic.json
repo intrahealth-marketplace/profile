@@ -1,0 +1,17 @@
+{
+	"displayName": "702 (01/21) - Patient Referral Form The Moncton Hospital Chest Clinic",
+	"healthRegion": "Provincial",
+	"jurisdiction": "NB",
+	"language": "English",
+	"versionHistory": [{
+			"version": 1,
+			"date": "2023-04-24T12:00:00.000Z",
+			"comments": ""
+		}
+	],
+	"intrahealthId": "",
+	"healthRegionId": "",
+	"created": "2023-04-24T12:00:00.000Z",
+	"modified": "2024-04-03T12:00:00.000Z",
+	"uploaded": "2023-04-24T12:00:00.000Z"
+}
