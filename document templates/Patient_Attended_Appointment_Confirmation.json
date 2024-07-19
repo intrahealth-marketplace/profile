@@ -1,6 +1,6 @@
 {
 	"displayName": "Patient Attended Appointment Confirmation",
-	"healthRegion": "All",
+	"healthRegion": "Provincial",
 	"jurisdiction": "NB",
 	"language": "English",
 	"versionHistory": [
