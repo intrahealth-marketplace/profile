@@ -1,7 +1,7 @@
 {
 	"displayName": "Fax Cover Sheet - Simple",
 	"healthRegion": "Provincial",
-	"jurisdiction": "NB",
+	"jurisdiction": ["NB", "BC", "ON"],
 	"language": "English",
 	"versionHistory": [
     {"version": 1, "date": "2024-12-05", "comments": ""}
