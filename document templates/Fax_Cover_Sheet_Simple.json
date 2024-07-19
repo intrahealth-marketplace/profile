@@ -1,6 +1,6 @@
 {
 	"displayName": "Fax Cover Sheet - Simple",
-	"healthRegion": "Provincial",
+	"healthRegion": "All",
 	"jurisdiction": ["NB", "BC", "ON"],
 	"language": "English",
 	"versionHistory": [
