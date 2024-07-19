@@ -1,7 +1,7 @@
 {
 	"displayName": "Absence Note for Medical Condition",
 	"healthRegion": "All",
-	"jurisdiction": "NB","BC",
+	"jurisdiction": "CAN",
 	"language": "English",
 	"versionHistory": [
     {"version": 1, "date": "2024-07-19", "comments": ""}
