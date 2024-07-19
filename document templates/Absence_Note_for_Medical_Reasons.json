@@ -1,7 +1,7 @@
 {
 	"displayName": "Absence Note for Medical Reasons",
-	"healthRegion": "Provincial",
-	"jurisdiction": "NB"
+	"healthRegion": "",
+	"jurisdiction": ["NB", "BC", "ON"],
 	"language": "English",
 	"versionHistory": [
     {"version": 1, "date": "2024-07-19", "comments": ""}
