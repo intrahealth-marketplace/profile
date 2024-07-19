@@ -1,7 +1,7 @@
 {
 	"displayName": "Fax Cover Sheet - Simple",
 	"healthRegion": "",
-	"jurisdiction": "Canada",
+	"jurisdiction": "NB","BC",
 	"language": "English",
 	"versionHistory": [
     {"version": 1, "date": "2024-12-05", "comments": ""}
