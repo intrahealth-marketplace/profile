@@ -1,7 +1,7 @@
 {
   "displayName": "Asthma",
-  "healthRegion": "Provincial",
-  "jurisdiction": "NB",
+  "healthRegion": "",
+  "jurisdiction": ["NB", "BC", "ON"],
   "language": "English",
   "versionHistory": [
     {"version": 1, "date": "2023-04-25", "comments": ""}
