@@ -1,17 +1,10 @@
 {
-	"displayName": "PHQ-9 (Patient Health Questionnaire 9)",
-	"healthRegion": "CAN",
-	"jurisdiction": "CAN",
-	"language": "English",
-	"versionHistory": [{
-			"version": 1,
-			"date": "2023-07-23T12:00:00.000Z",
-			"comments": ""
-		}
-	],
-	"intrahealthId": "",
-	"healthRegionId": "",
-	"created": "",
-	"modified": "",
-	"uploaded": ""
+  "displayName": "PHQ-9 (Patient Health Questionnaire 9)",
+  "healthRegion": "",
+  "jurisdiction": "",
+  "language": "English",
+  "versionHistory": [
+    {"version": 1, "date": "2024-12-05", "comments": ""},
+     ],
+  "modified": "2024-12-05T10:13:07Z"
 }
