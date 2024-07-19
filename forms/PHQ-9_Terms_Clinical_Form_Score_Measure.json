@@ -1,7 +1,7 @@
 {
   "displayName": "PHQ-9 (Patient Health Questionnaire 9)",
   "healthRegion": "",
-  "jurisdiction": "ON", "BC", "NB",
+  "jurisdiction": "BC",
   "language": "English",
   "versionHistory": [
     {"version": 1, "date": "2024-12-05", "comments": ""},
