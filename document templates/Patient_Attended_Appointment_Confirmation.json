@@ -1,7 +1,7 @@
 {
-	"displayName": "Off Work Note for Medical Reasons",
+	"displayName": "Patient Attended Appointment Confirmation",
 	"healthRegion": "All",
-	"jurisdiction": "CAN",
+	"jurisdiction": "NB",
 	"language": "English",
 	"versionHistory": [
     {"version": 1, "date": "2024-07-19", "comments": ""}
