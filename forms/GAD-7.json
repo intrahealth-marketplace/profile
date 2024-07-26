@@ -1,7 +1,7 @@
 {
 	"displayName": "GAD-7 (Generalized Anxiety Disorder 7)",
-	"healthRegion": "Provincial",
-	"jurisdiction": "BC",
+	"healthRegion": "",
+	"jurisdiction": "CAN",
 	"language": "English",
 	"versionHistory": [{
 			"version": 1,
