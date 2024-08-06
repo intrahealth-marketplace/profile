@@ -2,7 +2,7 @@
 	"displayName": "RC-315F (2023-02) - Vitalite - Depistages Du Risque Suicidaire - ASQ / Echelle De Depression Geriatrique 4",
 	"healthRegion": "Provincial",
 	"jurisdiction": "NB",
-	"language": "French",
+	"language": "French", "English",
 	"versionHistory": [{
 			"version": 1,
 			"date": "2024-04-03T12:00:00.000Z",
