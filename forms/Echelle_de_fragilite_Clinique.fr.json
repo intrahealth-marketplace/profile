@@ -2,7 +2,7 @@
 	"displayName": "Échelle de fragilité clinique",
 	"healthRegion": "Provincial",
 	"jurisdiction": "NB",
-	"language": "French",
+	"language": "French", "English",
 	"versionHistory": [{
 			"version": 1.2,
 			"date": "2024-04-03T12:00:00.000Z",
