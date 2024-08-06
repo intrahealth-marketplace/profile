@@ -2,7 +2,7 @@
 	"displayName": "VitalAire Sleep and Respiratory Referral Form",
 	"healthRegion": "Provincial",
 	"jurisdiction": "BC",
-	"language": "English",
+	"language": "English", "French",
 	"versionHistory": [{
 			"version": 1,
 			"date": "2023-04-21T12:00:00.000Z",
