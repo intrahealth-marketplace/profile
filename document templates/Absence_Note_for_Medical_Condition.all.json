@@ -1,0 +1,10 @@
+{
+	"displayName": "Absence Note for Medical Condition",
+	"healthRegion": "",
+	"jurisdiction": ["NB", "BC", "ON"],
+	"language": "English",
+	"versionHistory": [
+    {"version": 1, "date": "2024-07-19", "comments": ""}
+     ],
+  "modified": "2024-07-19T10:13:07Z"
+}
