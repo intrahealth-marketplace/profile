@@ -1,8 +1,8 @@
 {
-  "displayName": "ADHD Flowsheet",
+  "displayName": "Image Yeux",
   "healthRegion": "",
-  "jurisdiction": ["NB", "BC", "ON"],
-  "language": "English",
+  "jurisdiction": "NB",
+  "language": "French",
   "versionHistory": [
     {"version": 1, "date": "2023-04-25", "comments": ""}
      ],
