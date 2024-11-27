@@ -1,15 +1,11 @@
 {
-	"displayName": "Vancouver Coastal Health - Requisition for Nerve Conduction Study Electromyography Tests",
-	"healthRegion": "Provincial",
-	"jurisdiction": "BC",
-	"language": "English",
-	"versionHistory": [{
-			"version": 1,
-			"date": "2024-11-27 T12:00:00.000Z"
-		}
-	],
-	"intrahealthId": "",
-	"healthRegionId": "",
-	"created": "2024-11-27 T12:00:00.000Z",
-	"uploaded": "2024-11-27 T12:00:00.000Z"
+  "displayName": "Vancouver Coastal Health - Requisition for Nerve Conduction Study Electromyography Tests",
+  "healthRegion": "Provincial",
+  "jurisdiction": "BC",
+  "language": "English",
+  "versionHistory": [
+    {"version": 1, "date": "2024-11-27", "comments": ""}
+    
+  ],
+  "modified": ""
 }
