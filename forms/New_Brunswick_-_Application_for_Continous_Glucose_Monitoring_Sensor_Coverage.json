@@ -1,0 +1,17 @@
+{
+	"displayName": "New Brunswick - Application for Continous Glucose Monitoring Sensor Coverage",
+	"healthRegion": "Provincial",
+	"jurisdiction": "NB",
+	"language": "English",
+	"versionHistory": [{
+			"version": 1,
+			"date": "2024-11-28T12:00:00.000Z",
+			"comments": ""
+		}
+	],
+	"intrahealthId": "",
+	"healthRegionId": "",
+	"created": "2024-11-28T12:00:00.000Z",
+	"modified": "2024-11-28T12:00:00.000Z",
+	"uploaded": "2024-11-28T12:00:00.000Z"
+}
