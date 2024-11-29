@@ -1,0 +1,17 @@
+{
+	"displayName": "Horizon - Consultation Sur L’abandon Du Tabac Ou",
+	"healthRegion": "Provincial",
+	"jurisdiction": "NB",
+	"language": "French",
+	"versionHistory": [{
+			"version": 1,
+			"date": "2024-11-29T12:00:00.000Z",
+			"comments": ""
+		}
+	],
+	"intrahealthId": "",
+	"healthRegionId": "",
+	"created": "2024-11-29T12:00:00.000Z",
+	"modified": "2024-11-29T12:00:00.000Z",
+	"uploaded": "2024-11-29T12:00:00.000Z"
+}
