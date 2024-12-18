@@ -1,0 +1,17 @@
+{
+	"displayName": "Horizon - Clinical Institute Withdrawal Assessment for Alcohol (CIWA Ar)",
+	"healthRegion": "Provincial",
+	"jurisdiction": "NB",
+	"language": "English",
+	"versionHistory": [{
+			"version": 1,
+			"date": "2024-12-18T12:00:00.000Z",
+			"comments": ""
+		}
+	],
+	"intrahealthId": "",
+	"healthRegionId": "",
+	"created": "2024-12-18T12:00:00.000Z",
+	"modified": "2024-12-18T12:00:00.000Z",
+	"uploaded": "2024-12-18T12:00:00.000Z"
+}
