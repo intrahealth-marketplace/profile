@@ -1,0 +1,17 @@
+{
+	"displayName": "Interior Health - Cardiac Implantable Device Referral And Anticoagulation Plan 855194",
+	"healthRegion": "Provincial",
+	"jurisdiction": "BC",
+	"language": "English",
+	"versionHistory": [{
+			"version": 1,
+			"date": "2025-01-08T12:00:00.000Z",
+			"comments": ""
+		}
+	],
+	"intrahealthId": "",
+	"healthRegionId": "",
+	"created": "2025-01-08T12:00:00.000Z",
+	"modified": "2025-01-08T12:00:00.000Z",
+	"uploaded": "2025-01-0812:00:00.000Z"
+}
