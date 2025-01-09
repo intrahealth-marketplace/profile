@@ -1,0 +1,17 @@
+{
+	"displayName": "Horizon - Radiologic Consultation Form Medical Imaging Department",
+	"healthRegion": "Provinciale",
+	"jurisdiction": "NB",
+	"language": "English",
+	"versionHistory": [{
+			"version": 1,
+			"date": "2025-01-09T12:00:00.000Z",
+			"comments": ""
+		}
+	],
+	"intrahealthId": "",
+	"healthRegionId": "",
+	"created": "2025-01-09T12:00:00.000Z",
+	"modified": "2025-01-09T12:00:00.000Z",
+	"uploaded": "2025-01-09T12:00:00.000Z"
+}
