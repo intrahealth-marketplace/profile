@@ -1,0 +1,17 @@
+{
+	"displayName": "Horizon - Fredericton Area - Adult Diabetic Ketoacidosis (DKA) – Mild or Subcutaneous Insulin Clinical Order Set (Initial 8 Hours) 300000285",
+	"healthRegion": "Provincial",
+	"jurisdiction": "NB",
+	"language": "English",
+	"versionHistory": [{
+			"version": 1,
+			"date": "2025-01-13T12:00:00.000Z",
+			"comments": ""
+		}
+	],
+	"intrahealthId": "",
+	"healthRegionId": "",
+	"created": "2025-01-13T12:00:00.000Z",
+	"modified": "2025-01-13T12:00:00.000Z",
+	"uploaded": "2025-01-13T12:00:00.000Z"
+}
