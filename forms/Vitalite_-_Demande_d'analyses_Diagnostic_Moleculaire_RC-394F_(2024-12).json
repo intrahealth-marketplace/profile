@@ -1,0 +1,17 @@
+{
+	"displayName": "Vitalite - Demande d'analyses Diagnostic Moleculaire_RC-394F (2024-12)",
+	"healthRegion": "Provincial",
+	"jurisdiction": "NB",
+	"language": "Francais",
+	"versionHistory": [{
+			"version": 1,
+			"date": "2025-01-29T12:00:00.000Z",
+			"comments": ""
+		}
+	],
+	"intrahealthId": "",
+	"healthRegionId": "",
+	"created": "2025-01-29T12:00:00.000Z",
+	"modified": "2025-01-29T12:00:00.000Z",
+	"uploaded": "2025-01-29T12:00:00.000Z"
+}
