@@ -1,10 +1,17 @@
 {
-  "displayName": "ICBC - Extended Medical Report",
-  "healthRegion": "",
-  "jurisdiction": "BC",
-  "language": "English",
-  "versionHistory": [
-    {"version": 1, "date": "2024-02-07", "comments": ""},
-     ],
-  "modified": "2024-02-07T10:13:07Z"
+	"displayName": "ICBC - Extended Medical Report",
+	"healthRegion": "Provincial",
+	"jurisdiction": "BC",
+	"language": "English",
+	"versionHistory": [{
+			"version": 1,
+			"date": "2025-02-27T12:00:00.000Z",
+			"comments": ""
+		}
+	],
+	"intrahealthId": "",
+	"healthRegionId": "",
+	"created": "2025-02-27T12:00:00.000Z",
+	"modified": "2025-02-27T12:00:00.000Z",
+	"uploaded": "2025-02-27T12:00:00.000Z"
 }
