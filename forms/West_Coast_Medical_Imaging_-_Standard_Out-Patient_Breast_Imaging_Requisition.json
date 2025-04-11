@@ -1,7 +1,7 @@
 {
 	"displayName": "West Coast Medical Imaging - Standard Out-Patient Breast Imaging Requisition",
 	"healthRegion": "Provincial",
-	"jurisdiction": BC",
+	"jurisdiction": "BC",
 	"language": "English",
 	"versionHistory": [{
 			"version": 1,
