@@ -1,0 +1,17 @@
+{
+	"displayName": "Vitalite - Demande De Consultation AVC-AIT_RC-190F_2025-02",
+	"healthRegion": "Provincial",
+	"jurisdiction": "NB",
+	"language": "English ",
+	"versionHistory": [{
+			"version": 1,
+			"date": "2025-04-21T12:00:00.000Z",
+			"comments": ""
+		}
+	],
+	"intrahealthId": "",
+	"healthRegionId": "",
+	"created": "2025-04-21T12:00:00.000Z",
+	"modified": "2025-04-21T12:00:00.000Z",
+	"uploaded": "2025-04-21T12:00:00.000Z"
+}
