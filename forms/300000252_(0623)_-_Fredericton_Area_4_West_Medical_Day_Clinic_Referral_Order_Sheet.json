@@ -1,0 +1,17 @@
+{
+	"displayName": "300000252_(06/23) - Fredericton Area 4 West Medical Day Clinic Referral Order Sheet",
+	"healthRegion": "Provincial",
+	"jurisdiction": "NB",
+	"language": "English",
+	"versionHistory": [{
+			"version": 1,
+			"date": "2025-05-06T12:00:00.000Z",
+			"comments": ""
+		}
+	],
+	"intrahealthId": "",
+	"healthRegionId": "",
+	"created": "2025-05-06T12:00:00.000Z",
+	"modified": "2025-05-06T12:00:00.000Z",
+	"uploaded": "2025-05-06T12:00:00.000Z"
+}
