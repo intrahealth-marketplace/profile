@@ -1,0 +1,17 @@
+{
+	"displayName": "BC Women's Hospital - Ultrasound Fetal Monitoring Intake Form (BCW1293)",
+	"healthRegion": "Provincial",
+	"jurisdiction": "BC",
+	"language": "English",
+	"versionHistory": [{
+			"version": 1,
+			"date": "2025-05-27T12:00:00.000Z",
+			"comments": ""
+		}
+	],
+	"intrahealthId": "",
+	"healthRegionId": "",
+	"created": "2025-05-27T12:00:00.000Z",
+	"modified": "2025-05-27T12:00:00.000Z",
+	"uploaded": "2025-05-27T12:00:00.000Z"
+}
