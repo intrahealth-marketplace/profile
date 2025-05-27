@@ -1,0 +1,17 @@
+{
+	"displayName": "BC Women's Hospital - Ambulatory Clinic Referral (MAP) FEB 2022 (BCW1399)",
+	"healthRegion": "Provincial",
+	"jurisdiction": "BC",
+	"language": "English ",
+	"versionHistory": [{
+			"version": 1,
+			"date": "2025-05-27T12:00:00.000Z",
+			"comments": ""
+		}
+	],
+	"intrahealthId": "",
+	"healthRegionId": "",
+	"created": "2025-05-27T12:00:00.000Z",
+	"modified": "2025-05-27T12:00:00.000Z",
+	"uploaded": "2025-05-27T12:00:00.000Z"
+  }
