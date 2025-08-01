@@ -1,0 +1,17 @@
+{
+	"displayName": "Provincial Health Services Authority - Out of Province Testing Consent Form",
+	"healthRegion": "Provincial",
+	"jurisdiction": "BC",
+	"language": "English ",
+	"versionHistory": [{
+			"version": 1,
+			"date": "2025-08-01T12:00:00.000Z",
+			"comments": ""
+		}
+	],
+	"intrahealthId": "",
+	"healthRegionId": "",
+	"created": "2025-08-01T12:00:00.000Z",
+	"modified": "2025-08-01T12:00:00.000Z",
+	"uploaded": "2025-08-01T12:00:00.000Z"
+  }
