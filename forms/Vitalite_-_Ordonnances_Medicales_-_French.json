@@ -1,0 +1,17 @@
+{
+    "displayName": "Vitalite - Ordonnances Medicales - French",
+    "healthRegion": "Provincial",
+    "jurisdiction": "NB",
+    "language": "French",
+    "versionHistory": [{
+            "version": 1,
+            "date": "2025-08-26T12:00:00.000Z",
+            "comments": ""
+        }
+    ],
+    "intrahealthId": "",
+    "healthRegionId": "",
+    "created": "2025-08-26T12:00:00.000Z",
+    "modified": "2025-08-26T12:00:00.000Z",
+    "uploaded": "2025-08-26T12:00:00.000Z"
+}
