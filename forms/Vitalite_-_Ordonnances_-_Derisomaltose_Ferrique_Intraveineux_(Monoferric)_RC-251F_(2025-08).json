@@ -1,0 +1,17 @@
+{
+	"displayName": "Vitalite - Ordonnances - Derisomaltose Ferrique Intraveineux (Monoferric) RC-251F (2025-08)",
+	"healthRegion": "Provincial",
+	"jurisdiction": "NB",
+	"language": "Francais ",
+	"versionHistory": [{
+			"version": 1,
+			"date": "2025-09-10T12:00:00.000Z",
+			"comments": ""
+		}
+	],
+	"intrahealthId": "",
+	"healthRegionId": "",
+	"created": "2025-09-10T12:00:00.000Z",
+	"modified": "2025-09-10T12:00:00.000Z",
+	"uploaded": "2025-09-10T12:00:00.000Z"
+  }
