@@ -1,0 +1,17 @@
+{
+	"displayName": "Vitalite - Reference A La Clinique Du Diabete RC-316B (2025-09)",
+	"healthRegion": "Provincial",
+	"jurisdiction": "NB",
+	"language": "Francais ",
+	"versionHistory": [{
+			"version": 1,
+			"date": "2025-09-10T12:00:00.000Z",
+			"comments": ""
+		}
+	],
+	"intrahealthId": "",
+	"healthRegionId": "",
+	"created": "2025-09-10T12:00:00.000Z",
+	"modified": "2025-09-10T12:00:00.000Z",
+	"uploaded": "2025-09-10T12:00:00.000Z"
+  }
