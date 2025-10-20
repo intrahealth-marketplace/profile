@@ -1,0 +1,17 @@
+{
+    "displayName": "Vitalite - Etranglement D’un Doigt Ou Orteil Par Un Anneau - Service D’urgence Et Soins De Sante Primair",
+    "healthRegion": "Provincial",
+    "jurisdiction": "NB",
+    "language": "French",
+    "versionHistory": [{
+            "version": 1,
+            "date": "2025-10-20T12:00:00.000Z",
+            "comments": ""
+        }
+    ],
+    "intrahealthId": "",
+    "healthRegionId": "",
+    "created": "2025-10-20T12:00:00.000Z",
+    "modified": "2025-10-20T12:00:00.000Z",
+    "uploaded": "2025-10-20T12:00:00.000Z"
+}
