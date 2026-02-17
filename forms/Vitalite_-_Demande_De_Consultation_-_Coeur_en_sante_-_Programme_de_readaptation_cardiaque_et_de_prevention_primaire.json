@@ -1,0 +1,17 @@
+{
+    "displayName": "Vitalite - Demande De Consultation - Cœur en santé – Programme de réadaptation cardiaque et de prévention primaire",
+    "healthRegion": "Provincial",
+    "jurisdiction": ["NB"],
+    "language": "French",
+    "versionHistory": [{
+            "version": 1,
+            "date": "2026-02-17T12:00:00.000Z",
+            "comments": ""
+        }
+    ],
+    "intrahealthId": "",
+    "healthRegionId": "",
+    "created": "2026-02-17T12:00:00.000Z",
+    "modified": "2026-02-17T12:00:00.000Z",
+    "uploaded": "2026-02-17T12:00:00.000Z"
+}
