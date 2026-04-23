@@ -1,0 +1,17 @@
+ {
+    "displayName": "Vancouver Coastal Health Authority - Sea to Sky Palliative and Supportive Care Referral",
+    "healthRegion": "Provincial",
+    "jurisdiction": "BC",
+    "language": "English",
+    "versionHistory": [{
+            "version": 1,
+            "date": "2026-04-23T12:00:00.000Z",
+            "comments": ""
+        }
+    ],
+    "intrahealthId": "",
+    "healthRegionId": "",
+    "created": "2026-04-23T12:00:00.000Z",
+    "modified": "2026-04-23T12:00:00.000Z",
+    "uploaded": "2026-04-23T12:00:00.000Z"
+}
