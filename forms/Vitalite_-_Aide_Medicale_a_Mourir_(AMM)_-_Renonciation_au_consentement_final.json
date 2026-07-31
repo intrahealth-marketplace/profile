@@ -1,0 +1,17 @@
+{
+    "displayName": "Vitalite - Aide Medicale a Mourir (AMM) - Renonciation au consentement final",
+    "healthRegion": "Provincial",
+    "jurisdiction": "NB",
+    "language": "French",
+    "versionHistory": [{
+            "version": 1,
+            "date": "2026-07-31T12:00:00.000Z",
+            "comments": ""
+        }
+    ],
+    "intrahealthId": "",
+    "healthRegionId": "",
+    "created": "2026-07-31T12:00:00.000Z",
+    "modified": "2026-07-31T12:00:00.000Z",
+    "uploaded": "2026-07-31T12:00:00.000Z"
+}
