@@ -1,0 +1,17 @@
+{
+    "displayName": "New Brunswick - Seulement pour clients avec assistance sociale - Formulaire de demande de soins des pieds et des ongles or diabétique",
+    "healthRegion": "Provincial",
+    "jurisdiction": "NB",
+    "language": "French",
+    "versionHistory": [{
+            "version": 1,
+            "date": "2026-08-03T12:00:00.000Z",
+            "comments": ""
+        }
+    ],
+    "intrahealthId": "",
+    "healthRegionId": "",
+    "created": "2026-08-03T12:00:00.000Z",
+    "modified": "2026-08-03T12:00:00.000Z",
+    "uploaded": "2026-08-03T12:00:00.000Z"
+}
