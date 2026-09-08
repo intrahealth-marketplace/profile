@@ -1,0 +1,17 @@
+{
+    "displayName": "Vitalite - Consultation Avec Léquipe Interdisciplinaire de Soutien Aux Travailleurs - RA-204F (2026-08)",
+    "healthRegion": "Provincial",
+    "jurisdiction": "NB",
+    "language": "French",
+    "versionHistory": [{
+            "version": 1,
+            "date": "2026-09-08T12:00:00.000Z",
+            "comments": ""
+        }
+    ],
+    "intrahealthId": "",
+    "healthRegionId": "",
+    "created": "2026-09-08T12:00:00.000Z",
+    "modified": "2026-09-08T12:00:00.000Z",
+    "uploaded": "2026-09-08T12:00:00.000Z"
+}
