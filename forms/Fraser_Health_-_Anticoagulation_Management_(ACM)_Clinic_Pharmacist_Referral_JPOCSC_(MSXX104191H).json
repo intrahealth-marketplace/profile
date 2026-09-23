@@ -1,0 +1,18 @@
+{
+    "displayName": "Fraser Health - Anticoagulation Management (ACM) Clinic Pharmacist Referral JPOCSC (MSXX104191H)",
+    "healthRegion": "Provincial",
+    "jurisdiction": "BC",
+    "language": "English",
+    "versionHistory": [
+        {
+            "version": 1,
+            "date": "2026-09-23T12:00:00.000Z",
+            "comments": ""
+        }
+    ],
+    "intrahealthId": "",
+    "healthRegionId": "",
+    "created": "2026-09-23T12:00:00.000Z",
+    "modified": "2026-09-23T12:00:00.000Z",
+    "uploaded": "2026-09-23T12:00:00.000Z"
+}
