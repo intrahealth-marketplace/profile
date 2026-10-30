@@ -1,0 +1,17 @@
+{
+    "displayName": "Dexcom G7 Prescription Form 2026",
+    "healthRegion": "Provincial",
+    "jurisdiction": ["ON", "BC", "AB", "NB"],
+    "language": "English",
+    "versionHistory": [{
+            "version": 1,
+            "date": "2026-10-30T12:00:00.000Z",
+            "comments": ""
+        }
+    ],
+    "intrahealthId": "",
+    "healthRegionId": "",
+    "created": "2026-10-30T12:00:00.000Z",
+    "modified": "2026-10-30T12:00:00.000Z",
+    "uploaded": "2026-10-30T12:00:00.000Z"
+}
