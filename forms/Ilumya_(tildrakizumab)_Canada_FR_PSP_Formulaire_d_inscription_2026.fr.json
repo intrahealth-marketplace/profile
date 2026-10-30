@@ -1,7 +1,7 @@
 {
     "displayName": "Ilumya (tildrakizumab) Canada FR PSP Formulaire d'inscription 2026",
     "healthRegion": "Provincial",
-    "jurisdiction": ["BC", "AB", "NB"],
+    "jurisdiction": "NB",
     "language": "French",
     "versionHistory": [{
             "version": 1,
