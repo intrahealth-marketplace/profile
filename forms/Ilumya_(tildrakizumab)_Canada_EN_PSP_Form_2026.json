@@ -1,7 +1,7 @@
 {
     "displayName": "Ilumya (tildrakizumab) Canada EN PSP Form 2026",
     "healthRegion": "Provincial",
-    "jurisdiction": "ON",
+    "jurisdiction": ["BC", "AB", "NB"],
     "language": "English",
     "versionHistory": [{
             "version": 1,
