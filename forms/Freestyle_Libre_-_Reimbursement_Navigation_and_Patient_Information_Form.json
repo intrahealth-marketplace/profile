@@ -1,7 +1,7 @@
 {
     "displayName": "Freestyle Libre - Reimbursement Navigation and Patient Information Form",
     "healthRegion": "Provincial",
-    "jurisdiction": "NB",
+    "jurisdiction": ["NB", "ON"],
     "language": "English",
     "versionHistory": [{
             "version": 1,
